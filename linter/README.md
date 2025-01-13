@@ -25,7 +25,7 @@ This tool validates GitLab CI configuration files (`.gitlab-ci.yml`) to ensure t
 
 ```bash
 pip install pyyaml jsonschema
-````
+```
 
 ## Usage
 
